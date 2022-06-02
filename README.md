@@ -1,5 +1,16 @@
-<div id="headerGif" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/shaqbaker/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitch.tv/shaqofalltradez">
+    <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twtich Badge"/>
+  </a>
+  <a href="https://twitter.com/TheShaqBaker/">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 </div>
 ### Hi there 👋
 
