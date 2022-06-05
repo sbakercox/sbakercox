@@ -2,14 +2,15 @@
   <h1>Hey👋, I'm Shaq and welcome to my little corner of Github</h1>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/> 
   <div id="Summary"  align="center">
-- 🔭 I’m currently working on ... <br>
+<!--    😄 Pronouns: He/Him <br>
+   💬 Ask me about ... <br>
+   🔭 I’m currently working on how to <br>
 - 🌱 I’m currently learning ... <br>
 - 👯 I’m looking to collaborate on ... <br>
 - 🤔 I’m looking for help with ... <br>
-- 💬 Ask me about ... <br>
+
 - 📫 How to reach me: ... <br>
-- 😄 Pronouns: ... <br>
-- ⚡ Fun fact: ... <br>
+- ⚡ Fun fact: ... <br> -->
   </div>
   <div id="badges">
   <a href="https://www.linkedin.com/in/shaqbaker/">
