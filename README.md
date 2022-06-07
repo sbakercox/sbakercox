@@ -24,7 +24,7 @@
 ### :eyes: About Me TL:DR Edition
 
 - :grin: Pronouns: He/Him
-- :thinking: I’m currently working on my personal site and two 100hrs projects.
+- :thinking: I’m currently working on my personal site and two projects (shhh they are top secret).
 - :nerd_face: I’m currently learning React and React Native.
 - :upside_down_face: Ask me about anything, I love challenging/pushing my knowledge base.
 - :sunglasses: How to reach me: Feel free to use any of the socials above. 
