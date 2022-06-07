@@ -5,7 +5,7 @@
   
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/> 
   <div id="badges">
-  <p>
+  <p id="story">
   
   </p>  
   <a href="https://www.linkedin.com/in/shaqbaker/">
@@ -21,16 +21,14 @@
 </div>
 
 ---
-### About Me TL:DR Edition
+### :eyes: About Me TL:DR Edition
 
-- 😄 Pronouns: He/Him
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- :grin: Pronouns: He/Him
+- :thinking: I’m currently working on my personal site and two 100hrs projects.
+- :nerd_face: I’m currently learning React and React Native.
+- :upside_down_face: Ask me about anything, I love challenging/pushing my knowledge base.
+- :sunglasses: How to reach me: Feel free to use any of the socials above. 
+- :smirk: Fun fact: Aside from media production and tech support, I also spent some time bartending and still practice on my free time.
 
 
 ---
