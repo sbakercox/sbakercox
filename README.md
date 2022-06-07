@@ -17,6 +17,9 @@
 ###
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sbakercox&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbakercox&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbakercox&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--
 **sbakercox/sbakercox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
