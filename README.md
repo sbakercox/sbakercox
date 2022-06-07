@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hey👋, I'm Shaq and welcome to my little corner of Github.</h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&size=30&width=600&lines=I'm+a+UI%2FUX+Designer%2C+wait+no...+;I'm+a+Front-End+Developer%2C+that's+not+it..;I'm+a+Back-End+Developer%2C+hmm+nah...;I'm+a+Full-Stack+Developer%2C+almost...;I'm+a+Full-Stack+Developer+%26+Designer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&size=30&center=true&vCenter=true&width=600&lines=I'm+a+UI%2FUX+Designer%2C+wait+no...+;I'm+a+Front-End+Developer%2C+that's+not+it..;I'm+a+Back-End+Developer%2C+hmm+nah...;I'm+a+Full-Stack+Developer%2C+almost...;I'm+a+Full-Stack+Developer+%26+Designer.)](https://git.io/typing-svg)
   
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/> 
   <div id="badges">
