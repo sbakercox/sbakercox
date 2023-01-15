@@ -49,10 +49,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VScode" width="40" height="40"/>&nbsp;
  </div>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbakercox&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbakercox&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sbakercox&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
